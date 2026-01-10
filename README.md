@@ -65,7 +65,7 @@ Used for selections, find, and match results.
 | ------------------ | ----------- | ------------------- |
 | **Selection Navy** | `#0D3754`   | Selection highlight |
 | **Neon Mint Glow** | `#00EAA838` | Active match glow   |
-| **Olive Match**    | `#2A5417`   | Match background    |
+| **Spruce Match**    | `#14452a`   | Match background    |
 | **Slate Overlay**  | `#27324166` | Range highlight     |
 
 ---
