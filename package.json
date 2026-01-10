@@ -2,15 +2,19 @@
   "name": "rainforestdark",
   "displayName": "Rainforest Dark",
   "description": "A dark, lush theme inspired by rain, moss, and dense forests. The goal of this theme was to create an aesthetic that is designed to feel calm, focused, and easy on the eyes.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "Gyde",
   "engines": {
-    "vscode": "^1.108.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
   ],
   "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0F141E",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -19,5 +23,9 @@
         "path": "./themes/rainforest-dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GlennDoesGit/rainforestdark"
   }
 }

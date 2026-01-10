@@ -5,6 +5,11 @@ A dark, lush theme inspired by forest and rain. The goal of this theme was to cr
 Created for personal use, colors may be tweaked here and there.
 
 ---
+## Preview
+
+![Rainforest Preview](screenshots/preview.png)
+
+---
 
 ## Color Palette
 
