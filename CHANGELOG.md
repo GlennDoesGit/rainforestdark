@@ -1,5 +1,10 @@
 # Change Log
 
+## [v1.0.3]
+
+- Lowered brightness of indent guides.
+- More minor color tweaks.
+
 ## [v1.0.2]
 
 - Changed Git decoration colors to a cooler palette.
