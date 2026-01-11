@@ -1,5 +1,10 @@
 # Change Log
 
+## [v1.0.6]
+
+- Updated preview screenshot.
+- Changed editor bracket foreground colors (I'm very, very indecisive on what colors I prefer so it might change even more later on, soz).
+
 ## [v1.0.5]
 
 - Added colors for some missed tokens.

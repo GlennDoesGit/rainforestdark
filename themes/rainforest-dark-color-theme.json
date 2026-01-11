@@ -21,6 +21,12 @@
       }
     },
     {
+      "scope": "punctuation.definition.interpolation.end.cs, punctuation.definition.interpolation.begin.cs",
+      "settings": {
+        "foreground": "#cad2e0"
+      }
+    },
+    {
       "scope": "variable.other.object.property",
       "settings": {
         "foreground": "#9AAAC9"
@@ -991,7 +997,7 @@
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#88C0D0"
+        "foreground": "#EBCB8B"
       }
     },
     {
@@ -1874,10 +1880,10 @@
     }
   ],
   "colors": {
-    "editorBracketHighlight.foreground1": "#b481ab",
-    "editorBracketHighlight.foreground2": "#81A1C1",
-    "editorBracketHighlight.foreground3": "#b481ab",
-    "editorBracketHighlight.foreground4": "#81A1C1",
+    "editorBracketHighlight.foreground1": "#88C0D0",
+    "editorBracketHighlight.foreground2": "#b481ab",
+    "editorBracketHighlight.foreground3": "#81A1C1",
+    "editorBracketHighlight.foreground4": "#59bdd6",
     "editorBracketHighlight.foreground5": "#A3BE8C",
     "editorBracketHighlight.foreground6": "#EBCB8B",
     "editorBracketHighlight.unexpectedBracket.foreground": "#ad4242",
