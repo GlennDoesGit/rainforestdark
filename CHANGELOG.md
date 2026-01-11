@@ -1,5 +1,9 @@
 # Change Log
 
+## [v1.0.7]
+
+- Well, well, well, changed editor bracket foreground colors again.
+
 ## [v1.0.6]
 
 - Updated preview screenshot.

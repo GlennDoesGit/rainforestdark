@@ -1881,10 +1881,10 @@
   ],
   "colors": {
     "editorBracketHighlight.foreground1": "#88C0D0",
-    "editorBracketHighlight.foreground2": "#b481ab",
+    "editorBracketHighlight.foreground2": "#A3BE8C",
     "editorBracketHighlight.foreground3": "#81A1C1",
     "editorBracketHighlight.foreground4": "#59bdd6",
-    "editorBracketHighlight.foreground5": "#A3BE8C",
+    "editorBracketHighlight.foreground5": "#b481ab",
     "editorBracketHighlight.foreground6": "#EBCB8B",
     "editorBracketHighlight.unexpectedBracket.foreground": "#ad4242",
     "foreground": "#9aaac9",
