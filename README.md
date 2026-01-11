@@ -24,7 +24,7 @@ Used for code tokens.
 | **Fresh Green**     | `#A0D175` | String variants, success hints    |
 | **Ice Teal**        | `#8FBCBB` | Types, interfaces                 |
 | **Sky Cyan**        | `#88C0D0` | Functions, classes, namespaces    |
-| **Lavender Violet** | `#B48EAD` | Constants, numbers, enums         |
+| **Lavender Violet** | `#B481AB` | Constants, bools, numbers         |
 | **Warm Sand**       | `#EBCB8B` | Annotations, decorators           |
 
 ---
@@ -34,9 +34,9 @@ Used for foreground elements like text or borders.
 
 | Role               | Hex       |
 | ------------------ | --------- |
-| **Primary Text**   | `#ECEFF4` |
-| **Secondary Text** | `#CAD2E0` |
-| **Muted Text**     | `#9AAAC9` |
+| **Blue Off-White**   | `#DADFEA` |
+| **Pale White** | `#CAD2E0` |
+| **Muted Gray**     | `#9AAAC9` |
 | **Comment Gray**   | `#707E99` |
 | **Deep Muted**     | `#4D576B` |
 
