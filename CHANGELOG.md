@@ -1,11 +1,16 @@
 # Change Log
 
+## [v1.0.10]
+
+- Changed class colors on semantic version to Sky Cyan.
+- Adjusted some colors around on semantic version.
+
 ## [v1.0.9]
 
 - Adjusted some colors.
-    - Warm Sand #EBCB8B => #dfc592
+    - Warm Sand #EBCB8B => #DFC592
     - Sky Cyan #88C0D0 =>  #86C7D9
-    - Warning #d19523 => #CFA54E
+    - Warning #D19523 => #CFA54E
 - Added another version designed for semantic tokens.
 
 ## [v1.0.8]

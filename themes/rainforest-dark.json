@@ -29,7 +29,7 @@
     {
       "scope": "variable.language.this",
       "settings": {
-        "foreground": "#e7c9a2"
+        "foreground": "#CC7272"
       }
     },
     {
@@ -152,7 +152,7 @@
       "name": "Text",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#cad2e0"
+        "foreground": "#e7c9a2"
       }
     },
     {
@@ -372,7 +372,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#9AAAC9"
+        "foreground": "#CAD2E0"
       }
     },
     {
@@ -546,7 +546,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#cad2e0"
+        "foreground": "#9AAAC9"
       }
     },
     {
@@ -574,7 +574,7 @@
       "name": "Namespaces",
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#86C7D9"
+        "foreground": "#B481AB"
       }
     },
     {
@@ -642,7 +642,7 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#86C7D9"
+        "foreground": "#B481AB"
       }
     },
     {
@@ -674,7 +674,7 @@
       "name": "Class name php",
       "scope": "variable.other.class.php",
       "settings": {
-        "foreground": "#dadfea"
+        "foreground": "#86C7D9"
       }
     },
     {

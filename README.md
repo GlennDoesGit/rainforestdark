@@ -77,7 +77,7 @@ Used for errors, warnings, info, and source control.
 | ------------------- | --------- | ---------------------- |
 | **Soft Error Red**  | `#EA5F5F` | Errors                 |
 | **Muted Error Red** | `#CC7272` | Secondary errors       |
-| **Amber Warning**   | `#D19523` | Warnings               |
+| **Amber Warning**   | `#CFA54E` | Warnings               |
 | **Info Sky Blue**   | `#86B1E8` | Informational messages |
 | **Git Red**         | `#AD1E25` | Deleted files          |
 | **Git Green**       | `#7A9B36` | Added files            |
