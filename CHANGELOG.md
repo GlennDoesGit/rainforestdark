@@ -1,5 +1,13 @@
 # Change Log
 
+## [v1.0.9]
+
+- Adjusted some colors.
+    - Warm Sand #EBCB8B => #dfc592
+    - Sky Cyan #88C0D0 =>  #86C7D9
+    - Warning #d19523 => #CFA54E
+- Added another version designed for semantic tokens.
+
 ## [v1.0.8]
 
 - You'll never guess what this update's for! (it's editor bracket colors)

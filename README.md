@@ -23,7 +23,7 @@ Used for code tokens.
 | **Muted Sage**      | `#A3BE8C` | Strings, literals                 |
 | **Fresh Green**     | `#A0D175` | String variants, success hints    |
 | **Ice Teal**        | `#8FBCBB` | Types, interfaces                 |
-| **Sky Cyan**        | `#88C0D0` | Functions, classes, namespaces    |
+| **Sky Cyan**        | `#86C7D9` | Functions, classes, namespaces    |
 | **Lavender Violet** | `#B481AB` | Constants, bools, numbers         |
 | **Warm Sand**       | `#EBCB8B` | Annotations, decorators           |
 
