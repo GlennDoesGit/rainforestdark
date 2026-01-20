@@ -681,7 +681,14 @@
       "name": "Type Name",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#86C7D9"
+        "foreground": "#8FBCBB"
+      }
+    },
+    {
+      "name": "Enums",
+      "scope": "entity.name.type.enum",
+      "settings": {
+        "foreground": "#B481AB"
       }
     },
     {
@@ -1324,6 +1331,13 @@
       "scope": "entity.name.variable.local.cs",
       "settings": {
         "foreground": "#dadfea"
+      }
+    },
+    {
+      "name": "cs local variable",
+      "scope": "entity.name.variable.enum-member",
+      "settings": {
+        "foreground": "#CAD2E0"
       }
     },
     {

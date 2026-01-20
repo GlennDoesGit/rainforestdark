@@ -1,5 +1,11 @@
 # Change Log
 
+## [v1.0.11]
+
+- Added more semantic tokens for semantic version of the theme.
+- Added color for enummembers.
+- Added a color to differentiate functions from classes in original version.
+
 ## [v1.0.10]
 
 - Changed class colors on semantic version to Sky Cyan.
