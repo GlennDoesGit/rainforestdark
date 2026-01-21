@@ -4,7 +4,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "parameter": {
-      "foreground": "#aac8e6"
+      "foreground": "#98b8d9"
     },
     "field": {
       "foreground": "#CAD2E0"
@@ -561,7 +561,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#9AAAC9"
+        "foreground": "#86C7D9"
       }
     },
     {

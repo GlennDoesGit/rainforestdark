@@ -1,5 +1,10 @@
 # Change Log
 
+## [v1.0.13]
+
+- Adjusted parameter color to be slightly more vibrant in semantic version.
+- Fixed inconsistent operator colors in semantic version.
+
 ## [v1.0.12]
 
 - Added a new muted green for flow control keywords in textmate version.
