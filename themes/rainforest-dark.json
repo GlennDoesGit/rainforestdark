@@ -639,8 +639,8 @@
       }
     },
     {
-      "name": "Classes",
-      "scope": "entity.name.type.namespace",
+      "name": "Namespaces",
+      "scope": "entity.name.type.namespace, entity.name.class.identifier.namespace.type",
       "settings": {
         "foreground": "#B481AB"
       }
@@ -649,14 +649,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#86C7D9"
-      }
-    },
-    {
-      "name": "Class name",
-      "scope": "entity.name.class.identifier.namespace.type",
-      "settings": {
-        "foreground": "#86C7D9"
+        "foreground": "#8FBCBB"
       }
     },
     {
@@ -664,17 +657,11 @@
       "scope": [
         "entity.name.class",
         "variable.other.class.js",
-        "variable.other.class.ts"
+        "variable.other.class.ts",
+        "variable.other.class.php"
       ],
       "settings": {
-        "foreground": "#86C7D9"
-      }
-    },
-    {
-      "name": "Class name php",
-      "scope": "variable.other.class.php",
-      "settings": {
-        "foreground": "#86C7D9"
+        "foreground": "#8FBCBB"
       }
     },
     {
@@ -710,6 +697,13 @@
       "scope": "keyword.other.special-method",
       "settings": {
         "foreground": "#86C7D9"
+      }
+    },
+    {
+      "name": "Keyword Control",
+      "scope": "keyword.control.flow",
+      "settings": {
+        "foreground": "#95c4aa"
       }
     },
     {

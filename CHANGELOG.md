@@ -1,5 +1,10 @@
 # Change Log
 
+## [v1.0.12]
+
+- Added a new muted green for flow control keywords in textmate version.
+- Fixed incosistent class color.
+
 ## [v1.0.11]
 
 - Added more semantic tokens for semantic version of the theme.

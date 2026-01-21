@@ -2,7 +2,7 @@
 
 A dark, lush theme inspired by forest and rain. The goal of this theme was to create an aesthetic looking theme that feels calm, focused, and easy on the eyes.
 
-Created for personal use, colors may be tweaked here and there.
+Created for personal use and mainly built for C#, colors may be tweaked here and there.
 
 ---
 ## Preview
@@ -19,7 +19,7 @@ Used for code tokens.
 | Color               | Hex       | Usage                             |
 | ------------------- | --------- | --------------------------------- |
 | **Frost Blue**      | `#81A1C1` | Keywords, control flow, operators |
-| **Soft Lime**       | `#9CC778` | Secondary strings, highlights     |
+| **Soft Lime**       | `#86c4a2` | Flow control keywords             |
 | **Muted Sage**      | `#A3BE8C` | Strings, literals                 |
 | **Fresh Green**     | `#A0D175` | String variants, success hints    |
 | **Ice Teal**        | `#8FBCBB` | Types, interfaces                 |
@@ -34,8 +34,8 @@ Used for foreground elements like text or borders.
 
 | Role               | Hex       |
 | ------------------ | --------- |
-| **Blue Off-White**   | `#DADFEA` |
-| **Pale White** | `#CAD2E0` |
+| **Blue Off-White** | `#DADFEA` |
+| **Pale White**     | `#CAD2E0` |
 | **Muted Gray**     | `#9AAAC9` |
 | **Comment Gray**   | `#707E99` |
 | **Deep Muted**     | `#4D576B` |
@@ -45,16 +45,16 @@ Used for foreground elements like text or borders.
 ### UI Colors
 Used for editor, panels, and layered UI surfaces.
 
-| Name              | Hex       | Description            |
-| ----------------- | --------- | ---------------------- |
-| **Deep Navy**     | `#1D273B` | Editor background      |
-| **Midnight Blue** | `#0F141E` | Panels, sidebars       |
-| **Black Ice**     | `#0C1119` | Deep background layers |
-| **Shadow Navy**   | `#1F283B` | Secondary surfaces     |
-| **Cool Azure**      | `#4385C0` | Active UI highlights |
-| **Dark Steel Blue** | `#174A77` | Subtle accents       |
-| **Ocean Blue**      | `#1E578A` | Hover states         |
-| **Evergreen**       | `#326037` | Secondary accents    |
+| Name                | Hex       | Description            |
+| ------------------- | --------- | ---------------------- |
+| **Deep Navy**       | `#1D273B` | Editor background      |
+| **Midnight Blue**   | `#0F141E` | Panels, sidebars       |
+| **Black Ice**       | `#0C1119` | Deep background layers |
+| **Shadow Navy**     | `#1F283B` | Secondary surfaces     |
+| **Cool Azure**      | `#4385C0` | Active UI highlights   |
+| **Dark Steel Blue** | `#174A77` | Subtle accents         |
+| **Ocean Blue**      | `#1E578A` | Hover states           |
+| **Evergreen**       | `#326037` | Secondary accents      |
 
 ---
 
@@ -65,7 +65,7 @@ Used for selections, find, and match results.
 | ------------------ | ----------- | ------------------- |
 | **Selection Navy** | `#0D3754`   | Selection highlight |
 | **Neon Mint Glow** | `#00EAA838` | Active match glow   |
-| **Spruce Match**    | `#14452a`   | Match background    |
+| **Spruce Match**   | `#14452a`   | Match background    |
 | **Slate Overlay**  | `#27324166` | Range highlight     |
 
 ---
