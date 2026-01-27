@@ -1,5 +1,9 @@
 # Change Log
 
+## [v1.0.14]
+
+- Changed control flow operator color in textmate version to Warm Sand.
+
 ## [v1.0.13]
 
 - Adjusted parameter color to be slightly more vibrant in semantic version.
